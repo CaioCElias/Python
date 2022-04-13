@@ -1,4 +1,4 @@
-<h1 text-align="center;">Python</h1>
+<h1 text-align="center">Python</h1>
 Projetos Python que mostram meu desenvolvimento nessa linguagem.
 <hr />
 <h2>O que são estes exercícios mostrados?</h2>
